@@ -18,4 +18,4 @@
 - Recreated the classic snake game 
 - Developed in Python using pygame module
 
-[Email](balajisuryaa@gmail.com) | [Github](https://github.com/Vijay1818) | [Linkedin](https://www.linkedin.com/in/vijay-damodharan-666816192/) 
+balajisuryaa@gmail.com | [Github](https://github.com/Vijay1818) | [Linkedin](https://www.linkedin.com/in/vijay-damodharan-666816192/) 
