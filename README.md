@@ -1,4 +1,4 @@
-# [Vijay Damodharan Portfolio](https://github.com/Vijay1818)
+# Vijay Damodharan Portfolio
 
 
 # [Project 1: Slime escape!](https://github.com/Vijay1818/Slime-escape)
@@ -17,3 +17,5 @@
 # [Project 4: Snake](https://github.com/Vijay1818/Snake)
 - Recreated the classic snake game 
 - Developed in Python using pygame module
+
+[Email](balajisuryaa@gmail.com) | [Github](https://github.com/Vijay1818) | [Linkedin](https://www.linkedin.com/in/vijay-damodharan-666816192/) 
