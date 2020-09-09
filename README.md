@@ -1,4 +1,3 @@
-# Vijay Damodharan Portfolio 
 ###### Click on the titles to view the Github repository
 
 
