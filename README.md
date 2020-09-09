@@ -1,5 +1,6 @@
-# Vijay Damodharan Portfolio
-### Click on the titles to view the Github repository
+# Vijay Damodharan Portfolio 
+###### Click on the titles to view the Github repository
+
 
 # [Project 1: Slime escape!](https://github.com/Vijay1818/Slime-escape)
 - A 2D obstacle course game
@@ -20,6 +21,6 @@
 
 # [Project 5: Gamefunctions](https://github.com/VijayDamodharan/Pygame-Gamefunctions)
 - A small module defining some functionality that is commonly used with games made with pygame
-- this includes code for creating buttons, labels, text, text wrapping, etc
+- This includes code for creating buttons, labels, text, text wrapping, etc
 
 balajisuryaa@gmail.com - [Github](https://github.com/Vijay1818) - [Linkedin](https://www.linkedin.com/in/vijay-damodharan-666816192/) 
