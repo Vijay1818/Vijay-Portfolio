@@ -21,4 +21,4 @@
 - A small module defining some functionality that is commonly used with games made with pygame
 - This includes code for creating buttons, labels, text, text wrapping, etc
 
-[Email](balajisuryaa@gmail.com) - [Github](https://github.com/Vijay1818) - [Linkedin](https://www.linkedin.com/in/vijay-damodharan-666816192/) 
+balajisuryaa@gmail.com - [Github](https://github.com/Vijay1818) - [Linkedin](https://www.linkedin.com/in/vijay-damodharan-666816192/) 
