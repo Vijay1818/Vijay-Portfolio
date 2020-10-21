@@ -1,6 +1,5 @@
 ###### Click on the titles to view the Github repository
 
-
 # [Project 1: Slime escape!](https://github.com/Vijay1818/Slime-escape)
 - A 2D obstacle course game
 - Developed in C# using WinForms designer
