@@ -1,13 +1,14 @@
 ###### Click on the titles to view the Github repository
 
 # [Project 1: Slime escape!](https://github.com/Vijay1818/Slime-escape) 
-![](Slime escape!.gif)
 - A 2D obstacle course game
 - Developed in C# using WinForms designer
+![](Slime escape!.gif)
 
 # [Project 2: Beat the Goblins!](https://github.com/Vijay1818/Beat-the-Goblins)
 - A 2D platform game
 - Developed in Python using pygame module
+![](Beat the Goblins!.gif)
 
 # [Project 3: Tetris](https://github.com/Vijay1818/Tetris)
 - Recreated the classic Tetris game 
