@@ -14,6 +14,7 @@
 - Recreated the classic Tetris game 
 - Contains some extra features such as skipping blocks
 - Developed in Python using pygame module
+![](Tetris.gif)
 
 # [Project 4: Snake](https://github.com/Vijay1818/Snake)
 - Recreated the classic snake game 
